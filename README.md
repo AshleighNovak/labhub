@@ -2,6 +2,8 @@
 
 The Faylab labhub is a work in progress.  
 
+* Onboarding into the lab!: https://github.com/thefaylab/labhub/wiki/Onboarding-in-the-Fay-Lab :fish:
+
 * Lab meeting schedule: https://github.com/thefaylab/labhub/wiki/Lab-meetings
 * Travel procedures: https://github.com/thefaylab/labhub/blob/master/02-protocols/Travel.Rmd
 
